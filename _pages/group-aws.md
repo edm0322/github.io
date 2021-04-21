@@ -1,9 +1,9 @@
 ---
 title: "AWS 관련글"
-permailnk: /categories/AWS/
+permailnk: /categories/aws/
 layout: category
 author_profile: true
-taxonomy: AWS
+taxonomy: aws
 ---
 
-AWS 관련글 테스트 입니다.
+AWS 관련글 테스트 입니다
